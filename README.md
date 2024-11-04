@@ -28,6 +28,11 @@ login dengan ionic
 6.Guard Autentikasi:
 
 -authGuard memastikan pengguna sudah login untuk mengakses halaman home.
+
 -autoLoginGuard mencegah akses halaman login jika pengguna sudah login.
+
 7.Logout:
+
 -Di halaman home, pengguna dapat logout, yang menghapus data login dan mengarahkan kembali ke halaman login.
+
+
